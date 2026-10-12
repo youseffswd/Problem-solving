@@ -1,0 +1,20 @@
+{
+    "name": "problem-solving",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest",
+        "test:run": "vitest run",
+        "solve": "node ./scripts/solve.mjs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "tsx": "^4.23.15",
+        "typescript": "^7.0.2",
+        "vitest": "^4.1.11"
+    }
+}
